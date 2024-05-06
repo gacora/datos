@@ -1,7 +1,7 @@
-carrera, n_contenidos
-computación,492
-Sistemas de información,532
-Software,294
-Telecomunicaciones,313
-Tecnologías de la información,299
-otras,99
+id,carrera,n_contenidos
+1,computación,492
+2,Sistemas de información,532
+3,Software,294
+4,Telecomunicaciones,313
+5,Tecnologías de la información,299
+6,otras,99
