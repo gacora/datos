@@ -1,0 +1,31 @@
+,Asignatura,Docente,Franja,Preferencia,Carga_Horaria,Tematica,Conflicto,Tiempo_Muerto,Franja_Optima,Conflicto_Recurso,Conflicto_Docente,Conflicto_Preferencia,Conflicto_Saturacion,
+0,A1,D6,4,3,2,Data Science,0,0,4,0,0,0,0,0
+1,A2,D7,5,4,2,Algorithms,0,0,5,0,0,0,0,0
+2,A3,D5,3,4,2,Statistics,0,0,3,0,0,0,0,0
+3,A4,D1,5,1,2,Algorithms,1,0,5,0,0,0,0,0
+4,A5,D1,5,3,2,Programming,1,0,5,0,0,0,0,0
+5,A6,D3,2,5,1,Data Science,1,0,2,0,0,0,0,0
+6,A7,D2,3,3,3,Programming,0,0,3,0,0,0,0,0
+7,A8,D5,3,5,2,Programming,0,0,3,0,0,0,0,0
+8,A9,D10,3,1,2,Networking,0,0,3,0,0,0,0,0
+9,A10,D6,5,2,2,Data Science,1,0,5,0,1,0,0,0
+10,A11,D7,4,4,2,Programming,0,0,4,0,0,0,0,0
+11,A12,D4,3,1,2,Networking,0,0,3,0,0,0,0,0
+12,A13,D7,5,4,2,Networking,0,0,5,0,0,0,0,0
+13,A14,D8,2,2,3,Data Science,1,0,2,0,0,0,0,0
+14,A15,D1,4,2,3,Software Engineering,0,0,4,0,0,0,0,0
+15,A16,D6,2,1,2,Optimization,0,0,2,0,0,0,0,0
+16,A17,D8,4,2,3,Statistics,0,0,4,0,0,0,0,0
+17,A18,D5,5,5,1,Optimization,0,0,5,0,0,0,0,0
+18,A19,D4,1,2,2,Algorithms,0,0,1,0,0,0,0,0
+19,A20,D2,4,4,1,Statistics,0,0,4,0,0,0,0,0
+20,A21,D6,2,4,1,Algorithms,0,0,2,0,0,0,0,0
+21,A22,D6,5,4,2,Programming,1,0,5,0,0,0,0,0
+22,A23,D1,4,4,3,Machine Learning,0,0,4,0,0,0,0,0
+23,A24,D9,1,5,1,Data Science,0,0,1,0,0,0,0,0
+24,A25,D6,1,3,2,Statistics,1,0,1,0,0,0,0,0
+25,A26,D3,3,1,1,Statistics,0,0,3,0,0,0,0,0
+26,A27,D4,3,4,1,Programming,0,0,3,0,0,0,0,0
+27,A28,D4,2,2,1,Software Engineering,0,0,2,0,0,0,0,0
+28,A29,D3,4,4,1,Networking,0,0,4,0,0,0,0,0
+29,A30,D10,4,2,3,Programming,0,0,4,0,0,0,0,0
